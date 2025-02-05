@@ -1,0 +1,15 @@
+[submodule "c/fmt"]
+path = c/fmt
+url = https://github.com/fmtlib/fmt.git
+[submodule "java/java-hello-world-with-maven"]
+path = java/java-hello-world-with-maven
+url = https://github.com/jabedhasan21/java-hello-world-with-maven.git
+[submodule "java/simple-java-maven-app"]
+path = java/simple-java-maven-app
+url = https://github.com/jenkins-docs/simple-java-maven-app.git
+[submodule "c/libev"]
+path = c/libev
+url = https://github.com/enki/libev.git
+[submodule "c/json"]
+path = c/json
+url = https://github.com/nlohmann/json.git
