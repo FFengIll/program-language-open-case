@@ -13,3 +13,9 @@ url = https://github.com/enki/libev.git
 [submodule "c/json"]
 path = c/json
 url = https://github.com/nlohmann/json.git
+[submodule "c/libwebp"]
+path = c/libwebp
+url = https://github.com/webmproject/libwebp.git
+[submodule "c/libpng"]
+path = c/libpng
+url = https://github.com/pnggroup/libpng.git
